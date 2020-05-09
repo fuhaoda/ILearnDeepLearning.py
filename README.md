@@ -7,6 +7,7 @@
 ## Reference
 
 [Deep learning math](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
+
 [Deep learning pure numpy](https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795)
 
 
